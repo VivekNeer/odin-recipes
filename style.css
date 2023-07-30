@@ -2,7 +2,7 @@
 body {
     background-image:url(https://www.toptal.com/designers/subtlepatterns/uploads/leaves.png);
     background-repeat: repeat;
-    font-family: serif ,'Times New Roman', Times,;
+    font-family:serif,'Times New Roman', Times;
 }
 
 div {
@@ -10,12 +10,20 @@ div {
 }
     height: 0px;
 
-
-a:link{
-    height: 50px;
-}
-
-
 .heading {
     text-align: center;       
 }
+
+a{
+    color: black;
+    text-align: center;
+}
+
+p {
+    width: 1000px;
+}
+
+li {
+    width: 800px;
+}
+
